@@ -21,3 +21,8 @@ Arkadaşlarınızla mesajlaşırken ya da konuşurken bu kelimelerle subliminali
 
       + Ya hacı bizim bir arkadaş bilmeden bilgisayarından bir kaç bir şeyi silmiş. Onları geri getirmemiz lazım. Yapabilir misin?
       - Kanka bu aralar çok sıkışığım. Testi yetiştiremedim. Kusura bakma.
+      
+:gun: - **tüfek**: Söyleyeceğim şeyden dolayı bana kızman, sinirlenmen gerekiyor.
+
+      + Tüfek, kanka bugün ben gelemiyorum sıkıntı olur mu?
+      - Ya oğlum ne biçim adamsın sen ya. O kadar sözleştik, söz verdin sözünde dur. Bir değil iki değil. Bu sefer geleceksin kesin.!
