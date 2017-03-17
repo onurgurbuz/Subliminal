@@ -26,3 +26,13 @@ Arkadaşlarınızla mesajlaşırken ya da konuşurken bu kelimelerle subliminali
 
       + Tüfek, kanka bugün ben gelemiyorum sıkıntı olur mu?
       - Ya oğlum ne biçim adamsın sen ya. O kadar sözleştik, söz verdin sözünde dur. Bir değil iki değil. Bu sefer geleceksin kesin.!
+
+:man: - **muhtar**: Söyleyeceğim şeyi daha önceden yaşamış, tecrübe edinmiş gibi davran. Söyleyeceğim şeyin seçeneklerinden sonuncusunu  yapmamı söyle.
+
+      + Muhtar sunucuyu x.x.x ya da x.x.y sürümüne yükselteceğim. Sence yükseltmelimiyim, hangisine yükselteyim?
+      - Kanka x.x.y sürümüne yükselt. x.x.x sürümü çok sorunlu.
+
+:eyeglasses: - **dede**: Söyleyeceğim şeyi daha önceden yaşamış, tecrübe edinmiş gibi davran. Söyleyeceğim şeyi kesinlikle yapmamamı söyle.
+
+       + Muhtar sunucuyu x.x.x sürümüne yükselteceğim. Sence yükseltmelimiyim, hangisine yükselteyim?
+       - Kanka sakın yapma, ben daha önce yaptım. Bir sürü sorun yaşadım. Yapma.
