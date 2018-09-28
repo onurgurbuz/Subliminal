@@ -34,5 +34,5 @@ Arkadaşlarınızla mesajlaşırken ya da konuşurken bu kelimelerle subliminali
 
 :eyeglasses: - **dede**: Söyleyeceğim şeyi daha önceden yaşamış, tecrübe edinmiş gibi davran. Söyleyeceğim şeyi kesinlikle yapmamamı söyle.
 
-       + Muhtar sunucuyu x.x.x sürümüne yükselteceğim. Sence yükseltmelimiyim, hangisine yükselteyim?
+       + Dede sunucuyu x.x.x sürümüne yükselteceğim. Sence yükseltmelimiyim, hangisine yükselteyim?
        - Kanka sakın yapma, ben daha önce yaptım. Bir sürü sorun yaşadım. Yapma.
